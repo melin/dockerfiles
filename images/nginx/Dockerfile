@@ -1,5 +1,5 @@
 # Pull base image.
-FROM melin/centos6:base
+FROM melin/centos6-base
 
 MAINTAINER melin <libinsong1204@gmail.com>
 
